@@ -17,6 +17,7 @@ h2 {
 }
 
 h3 {
+  font-size: 1.6rem;
   font-family: 'Abel', sans-serif;
 }
 
@@ -39,15 +40,17 @@ h3 {
 }
 
 .My-Education {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.My-Skills {
+  text-align: center;
   margin: 0 auto;
 }
 
 .pro {
   text-decoration: underline;
-}
-
-.My-Education {
-  text-align: center;
 }
 
 .school-books {
