@@ -22,7 +22,7 @@ h3 {
 }
 
 hr {
-  border: dotted #DEBA9D 12px;
+  border: dotted #DEBA9D;
   border-bottom: none;
   width: 10%;
   margin: 10px auto;
@@ -42,6 +42,7 @@ a {
   background-color: #DEBA9D;
   position: relative;
   padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .bottom-container {
@@ -73,6 +74,13 @@ a {
 }
 
 .skills-icon {
+  text-align: center;
+  width: 6.25rem;
+  height: 6.25rem;
+  margin: 32px auto 0 auto;
+}
+
+.hobbies-icon {
   text-align: center;
   width: 6.25rem;
   height: 6.25rem;
@@ -129,4 +137,12 @@ a {
   position: absolute;
   left: 200px;
   bottom: 300px;
+}
+
+.footer-link {
+  margin: 10px auto;
+}
+
+.Heading {
+  font-size: 6rem;
 }
