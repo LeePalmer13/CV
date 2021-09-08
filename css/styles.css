@@ -143,6 +143,10 @@ a {
   margin: 10px auto;
 }
 
-.Heading {
+.heading {
   font-size: 6rem;
+}
+
+.about-me {
+  text-align: left;
 }
